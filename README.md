@@ -44,5 +44,13 @@
 1. Commit often and declare clear messages so you understand what was going on in the future when you'll come back to your previous code
 2. Pulling before pushing is optimal to avoid conflicts
 3. Usage of few branches is optimal to test new features or to fix something
-
+4. To successively complete the given task of creating a repo, you have to: 
+- 1. open git bash and type "git init"
+- 2. or else, you can create a repo online and then use git clone <repourl> to link it
+- 3. create your desired files
+- 3.5. git status checks the status 
+- 4. save your file
+- 5. do git add <file-name> to add the file to staging 
+- 6. git commit -m "comment" to commit your staged work with a message
+- 7. git push origin main to push to the remote 
 
