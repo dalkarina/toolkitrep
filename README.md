@@ -1,12 +1,12 @@
 ### My info 
-**Name:** Karina Dal
-**Date:** 08.04.2025
-**Gender:** Woman
-**Age:** 21
-**Course:** Basic Toolkit for Bioinformatics Research
-**Major:** Bioinformatics
-**University:** Jagiellonian University in Cracow
-**Favourite food:** Fried Onigiri, Sago soup, Ketchup Pringles 
+- **Name:** Karina Dal
+- **Date:** 08.04.2025
+- **Gender:** Woman
+- **Age:** 21
+- **Course:** Basic Toolkit for Bioinformatics Research
+- **Major:** Bioinformatics
+- **University:** Jagiellonian University in Cracow
+- **Favourite food:** Fried Onigiri, Sago soup, Ketchup Pringles 
 
 ### The concept of GIT
 **Git is a version control system that is used to track changes in the code.**
